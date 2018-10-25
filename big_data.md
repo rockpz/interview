@@ -11,3 +11,13 @@ BI开发
 OLTP与OLAP的区别
 联机事务处理On-Line Transaction Processing
 联机分析处理On-Line Analytical Processing
+
+## spanner/F1
+有向无环图
+
+## 分布式基础
+CPA理论
+
+Caffeine、Pregel、Dremel
+
+
